@@ -1,4 +1,4 @@
-# AI Developer Toolkit
+# AI Agents & Project Developer Toolkit
 
 A curated collection of prompt templates, agent skill-building templates, and reusable development resources for engineers using AI agents to build, test, secure, and maintain software.
 
@@ -22,14 +22,14 @@ The repository is organized by purpose. The directory structure may evolve as ne
 .
 ├── README.md
 ├── prompts/
-│   ├── project-bootstrap/
-│   ├── code-generation/
-│   ├── code-review/
-│   ├── debugging/
-│   ├── refactoring/
-│   ├── testing/
-│   ├── security/
-│   └── documentation/
+│   ├── project-bootstrap.md
+│   ├── code-generation.md
+│   ├── code-review.md
+│   ├── debugging.md
+│   ├── refactoring.md
+│   ├── testing.md
+│   ├── security.md
+│   └── documentation.md
 ├── skills/
 │   ├── templates/
 │   ├── examples/
@@ -49,7 +49,7 @@ The repository is organized by purpose. The directory structure may evolve as ne
 
 The tree illustrates the intended organization; individual directories may be added as their contents become available.
 
-### `prompts/` — Reusable Prompt Templates
+### `prompts/` - Reusable Prompt Templates
 
 Prompts for directing AI agents through defined engineering tasks.
 
@@ -68,7 +68,7 @@ Potential categories include:
 
 Prompts should define the agent's role, objective, available context, constraints, interaction requirements, expected deliverables, and validation criteria.
 
-### `skills/` — Agent Skill Development
+### `skills/` - Agent Skill Development
 
 Templates and examples for building reusable agent skills.
 
